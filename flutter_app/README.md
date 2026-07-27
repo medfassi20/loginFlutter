@@ -11,7 +11,7 @@ A clean and responsive Flutter application featuring user authentication flow, i
 Ensure you have the following installed on your machine:
 * [Flutter SDK](https://docs.flutter.dev/get-started/install) (latest version recommended)
 * [Dart SDK](https://dart.dev/get-dart)
-* An IDE such as VS Code or Android Studio
+* An IDE (Visual Studio Code or Android Studio)
 * An emulator or physical device for testing
 
 ### Run Locally
